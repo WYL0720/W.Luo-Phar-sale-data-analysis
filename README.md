@@ -48,7 +48,7 @@ Drug brands were grouped into the following ATC categories:
 - Seaborn  
 
 #### **Dashboard**
-A Power BI dashboard is included for interactive exploration 
+A Tableau dashboard is included for interactive exploration 
 
 ### Structure
 
