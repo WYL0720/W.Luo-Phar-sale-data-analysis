@@ -4,6 +4,7 @@ Pharmaceutical Sales Trend Analysis (2014–2019)
 ### Goal:
 Understand how sales of common drug categories (ATC classes) evolve over time: seasonality, growth/decline, and category-level differences.
 ### Structure
+'''
 pharma-sales-analysis/
 │
 ├── README.md
@@ -34,4 +35,4 @@ pharma-sales-analysis/
 │
 └── dashboard/
     └── pharma_sales.pbix
-
+'''
