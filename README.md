@@ -57,17 +57,10 @@ pharma-sales-analysis/
 │
 ├── README.md
 │
-├── notebook/
+├── 1-Notebook/
 │   └── pharma_sales_analysis.ipynb
-│
-├── data/
-│   ├── pharma_sales.db
-│   ├── salesmonthly.csv
-│   ├── salesweekly.csv
-│   ├── salesdaily.csv
-│   └── saleshourly.csv
-│
-├── figures/
+|
+├── 2-Figures/
 │   ├── monthly_trend_all.png
 │   ├── monthly_trend_by_category.png
 │   ├── monthly_trend_summary.png
@@ -77,10 +70,19 @@ pharma-sales-analysis/
 │   ├── seasonal_pattern_by_category.png
 │   ├── weekday_vs_weekend_sales.png
 │   └── yearly_trends_by_category.png
+|
+├── 3-Data/
+│   ├── pharma_sales.db
+│   ├── salesmonthly.csv
+│   ├── salesweekly.csv
+│   ├── salesdaily.csv
+│   └── saleshourly.csv
 │
-├── report/
-│   └── pharma_sales_analysis_report.md
+|── 4-Dashboard/
+|    ├── Dashboard.png
+│    └── Pharma-sale-data-analysis.twbx
 │
-└── dashboard/
-    └── pharma_sales.pbix
+├── 5-Report/
+    └── pharma_sales_analysis_report.md
+
 
