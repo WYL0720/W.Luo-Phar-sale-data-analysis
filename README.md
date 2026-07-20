@@ -52,7 +52,7 @@ A Power BI dashboard is included for interactive exploration
 
 ### Structure
 
-'''text
+```text
 pharma-sales-analysis/
 │
 ├── README.md
